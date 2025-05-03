@@ -13,7 +13,6 @@
 ### 🔍 About Me
 
 - 🎓 AI Engineering student at **Sookmyung Women's University**
-- 🛠 Currently working on **Phishing URL Detection** & **Used Car Price Prediction**
 - 🌱 Learning **Pytorch**, **Tensorflow**, and **Cloud Deployment**
 - 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | ☁️ AWS Certified AI Practitioner
 - 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, **Computer Vision**, **LLMs**
