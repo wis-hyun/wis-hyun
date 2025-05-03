@@ -14,7 +14,7 @@
 
 - 🎓 **AI Engineering Student** at Sookmyung Women's University
 - 🌱 Learning **Pytorch**, **Tensorflow**, and **Cloud Deployment**
-- 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | 🎖️ Finalist in External Data Analysis Contest
+- 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | 🎖️ Finalist in External Data Analysis Contest | 🏅 AWS Certified AI Practitioner
 - 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, and **Computer vision**
 
 ---
@@ -29,7 +29,7 @@
   → Learned ML and LLMs, completed team projects  
   → Selected as an outstanding participant/team
 
-- 🧠 **GDGoC(Google Deveopler Group Community) AI Study Group**  
+- 🧠 **GDGoC(Google Deveopler Group on Campus) AI Study Group**  
   → Studied CS231n, research papers on deep learning
   → Google solution challenge
 
