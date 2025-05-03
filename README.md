@@ -2,9 +2,9 @@
 <h3 align="center">AI Engineer | Creative Developer | Explorer of Possibilities</h3>
 
 <p align="center">
-  <a href="mailto:smwuai2004@sookmyung.ac.kr">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/">🔗 LinkedIn</a> |
-  <a href="https://github.com/wis-hyun">💻 GitHub</a> |
+  <a href="mailto:smwuai2004@sookmyung.ac.kr">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/">🔗 LinkedIn</a> •
+  <a href="https://github.com/wis-hyun">💻 GitHub</a> •
   <a href="https://instagram.com/wis_hyunny">📸 Instagram</a>
 </p>
 
@@ -12,53 +12,58 @@
 
 ### 🔍 About Me
 
-- 🎓 **AI Engineering Student** at Sookmyung Women's University
+- 🎓 AI Engineering student at **Sookmyung Women's University**
+- 🛠 Currently working on **Phishing URL Detection** & **Used Car Price Prediction**
 - 🌱 Learning **Pytorch**, **Tensorflow**, and **Cloud Deployment**
-- 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | 🎖️ Finalist in External Data Analysis Contest | 🏅 AWS Certified AI Practitioner
-- 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, and **Computer vision**
+- 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | ☁️ AWS Certified AI Practitioner
+- 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, **Computer Vision**, **LLMs**
 
 ---
 
 ### 🧠 Experience Highlights
 
-- 📊 **Data Analysis Competitions**  
-  → Funeral facility site recommendation (School)  
-  → Shinhan Card data contest finalist (External)
+- 📊 **Data Analysis Projects**
+  - Funeral facility site recommendation (University)
+  - Shinhan Card Data Contest Finalist (External)
 
-- 🧑‍💻 **OUTTA AI Education Program**  
-  → Learned ML and LLMs, completed team projects  
-  → Selected as an outstanding participant/team
+- 🚀 **OUTTA AI Program**
+  - Explored ML & LLMs through real-world projects
+  - Awarded as an excellent team member
 
-- 🧠 **GDGoC(Google Deveopler Group on Campus) AI Study Group**  
-  → Studied CS231n, research papers on deep learning
-  → Google solution challenge
+- 💡 **GDGoC AI Study Group**
+  - Studied Stanford CS231n, read research papers
+  - Participated in Google Solution Challenge
 
-- ✈️ **US AI Training Program**  
-  → Built used car price prediction model using KNIME  
-  → Wrote a research paper and won 3rd in Hackathon
+- ✈️ **US AI Training Program**
+  - Developed used car price prediction using KNIME
+  - Published research paper & won 3rd in Hackathon
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
+#### 💻 Languages & Libraries  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 
-**Tools & Platforms**  
-![KNIME](https://img.shields.io/badge/-KNIME-FEBD07?logo=knime&logoColor=black)
+#### ⚙️ Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![KNIME](https://img.shields.io/badge/-KNIME-FEBD07?logo=knime&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 
-**Communication & Collaboration**  
+#### 💬 Communication & Collaboration  
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
+
 ---
 
 ### 📈 GitHub Stats
@@ -71,5 +76,7 @@
 
 ### ✨ Fun Fact
 
-> I love solving real-world problems with AI and believe that tech should serve people. 🌍  
-> I’m driven by curiosity, creativity, and a desire to make a meaningful impact.
+> I believe **technology should serve people**, not the other way around.  
+> I'm driven by **curiosity**, **creativity**, and a heart to build meaningful impact through AI. 🌍
+
+---
