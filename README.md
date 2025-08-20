@@ -5,7 +5,6 @@
   <a href="mailto:smwuai2004@sookmyung.ac.kr">📧 Email</a> •
   <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/">🔗 LinkedIn</a> •
   <a href="https://github.com/wis-hyun">💻 GitHub</a> •
-  <a href="https://instagram.com/wis_hyunny">📸 Instagram</a>
 </p>
 
 ---
