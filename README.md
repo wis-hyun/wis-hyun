@@ -14,30 +14,8 @@
 
 - 🎓 AI Engineering student at **Sookmyung Women's University**
 - 🌱 Learning **Pytorch**, **Tensorflow**, and **Cloud Deployment**
-- 🏆 3rd Place @ UCSD Hackathon | 🏅 KNIME Certified | ☁️ AWS Certified AI Practitioner
 - 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, **Computer Vision**, **LLMs**
 
----
-
-### 🧠 Experience Highlights
-
-- 📊 **Data Analysis Projects**
-  - Funeral facility site recommendation (University)
-  - Shinhan Card Data Contest Finalist (External)
-
-- 🚀 **OUTTA AI Program**
-  - Explored ML & LLMs through real-world projects
-  - Awarded as an excellent team member
-
-- 💡 **GDGoC AI Study Group**
-  - Studied Stanford CS231n, read research papers
-  - Participated in Google Solution Challenge
-
-- ✈️ **US AI Training Program**
-  - Developed used car price prediction using KNIME
-  - Published research paper & won 3rd in Hackathon
-
----
 
 ### 🛠️ Tech Stack
 
@@ -62,20 +40,5 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wis-hyun&show_icons=true&theme=tokyonight" alt="wis-hyun's GitHub stats" />
-</p>
-
----
-
-### ✨ Fun Fact
-
-> I believe **technology should serve people**, not the other way around.  
-> I'm driven by **curiosity**, **creativity**, and a heart to build meaningful impact through AI. 🌍
 
 ---
