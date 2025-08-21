@@ -13,7 +13,7 @@
 
 - 🎓 AI Engineering student at **Sookmyung Women's University**
 - 🌱 Learning **Pytorch**, **Tensorflow**, and **Cloud Deployment**
-- 💡 Passionate about **Human-Centered AI**, **Data Storytelling**, **Computer Vision**, **LLMs**
+- 💡 Passionate about **Computer Vision**, **Human-Centered AI**, **Data Storytelling**, **LLMs**
 
 
 ### 🛠️ Tech Stack
