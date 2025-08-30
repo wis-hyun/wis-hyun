@@ -22,7 +22,7 @@
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px">
 
-### 🎀 Languages & Libraries  
+###  Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-ffb6c1?style=flat-square&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-ffb6c1?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ffb6c1?style=flat-square&logo=java&logoColor=white)
@@ -37,7 +37,7 @@
 
 ---
 
-### 🎀 Frameworks & Platforms  
+###  Frameworks & Platforms  
 ![Flutter](https://img.shields.io/badge/Flutter-ffb6c1?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ffb6c1?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ffb6c1?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎀 Collaboration & Communication  
+###  Collaboration & Communication  
 ![Notion](https://img.shields.io/badge/Notion-ffb6c1?style=flat-square&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-ffb6c1?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-ffb6c1?style=flat-square&logo=discord&logoColor=white)
