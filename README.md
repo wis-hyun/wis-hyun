@@ -1,24 +1,24 @@
-<h2 align="center" style="color:#2e3b4e;">👋 Hi, I'm Sung Hyun Kim</h2>
+<h2 align="center" style="color:#2e3b4e;"> Hi, I'm Sung Hyun Kim</h2>
 <h4 align="center" style="color:#586069;">AI Engineer | Creative Developer | Explorer of Possibilities</h4>
 
 <p align="center">
-  <a href="mailto:smwuai2004@sookmyung.ac.kr" style="color:#0366d6;">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/" style="color:#0366d6;">🔗 LinkedIn</a> •
-  <a href="https://github.com/wis-hyun" style="color:#0366d6;">💻 GitHub</a>
+  <a href="mailto:smwuai2004@sookmyung.ac.kr" style="color:#0366d6;"> Email</a> •
+  <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/" style="color:#0366d6;"> LinkedIn</a> •
+  <a href="https://github.com/wis-hyun" style="color:#0366d6;"> GitHub</a>
 </p>
 
 ---
 
-## 🎀 About Me  
+##  About Me  
 
  AI Engineering student at **Sookmyung Women's University**  
  Exploring **Deep Learning**, **LLMs**, and **Cloud Deployment**  
  Passionate about **Computer Vision**, **Human-Centered AI**, and **Data Storytelling**  
- Hackathon & Competition enthusiast (🏆 multiple awards)  
+ Hackathon & Competition enthusiast (multiple awards)  
 
 ---
 
-## 🎀 Tech Stack  
+##  Tech Stack  
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px">
 
@@ -49,20 +49,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-
-##  Recent Projects  
-
-- 🛍️ **Fashion Commerce App** (Flutter)  
-  → E-commerce prototype app with Home, Category, and Cart features.  
-
-- 🧠 **Clothing Damage Detection** (TensorFlow, YOLO)  
-  → Image classification for 7 categories of clothing contamination.  
-
-- ⚡ **Smart Factory Energy Dashboard** (SageMaker + Streamlit)  
-  → Real-time electricity cost & carbon emission forecasting.  
 
 ---
 
