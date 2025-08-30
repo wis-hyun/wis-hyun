@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#0d1117; color:#ffffff; padding:30px; border-radius:15px">
 
 <h1>👋 Hi, I'm Sung Hyun Kim</h1>
-<h3>AI Engineer | Creative Developer | Explorer of Possibilities</h3>
+<h3>AI Engineering Student | Creative Developer | Explorer of Possibilities</h3>
 
 <p>
   <a href="mailto:smwuai2004@sookmyung.ac.kr" style="color:#58a6ff;">📧 Email</a> •
@@ -13,10 +13,14 @@
 
 ### 🔍 About Me
 
-- 🎓 AI Engineering student at **Sookmyung Women's University**  
-- 🌱 Exploring **Deep Learning**, **LLMs**, and **Cloud Deployment**  
+- 🎓 3rd year student at **Sookmyung Women's University**, Department of AI Engineering  
+- 🌱 Currently exploring **Deep Learning**, **LLMs**, and **Cloud Deployment**  
 - 💡 Passionate about **Computer Vision**, **Human-Centered AI**, and **Data Storytelling**  
-- 🚀 Hackathon & Competition enthusiast (🏆 multiple awards)  
+- 🏆 Hackathon & Competition:  
+  - 3rd Place @ UCSD Hackathon (2025)  
+  - Top-10 @ Google Solution Challenge APAC (2025)  
+  - 1st Place @ NLP Project Competition (2023)  
+- 📚 Interested in bridging **AI research** with **real-world impact**  
 
 ---
 
@@ -50,7 +54,20 @@
 
 ---
 
+### 📂 Experience & Activities  
+
+- 💻 **OUTTA AI** — AI education & research organization  
+- 🌱 **GDG on Campus (Google Developer Group)** — studied ML papers & deep learning models (CNN, VGGNet, ResNet)  
+- 🎓 **COSS Big Data Innovation Convergence College** — Supporter & Project activities  
+- 🏫 Undergraduate Research Assistant experiences (ML + UI/UX Automation Lab)  
+- 📊 Projects:  
+  - *ReCloset*: AI-powered clothing damage detection & sustainable fashion app  
+  - *Smart Factory Dashboard*: Energy & carbon forecasting (AWS SageMaker + Streamlit)  
+  - *Short-form Knowledge Platform*: Data-driven learning UX  
+
+---
+
 ### ✨ Motto  
-> “Building AI solutions that matter, blending creativity with engineering.”  
+> *“Building AI solutions that matter, blending creativity with engineering.”*  
 
 </div>
