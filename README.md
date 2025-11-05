@@ -12,7 +12,7 @@
 ##  About Me  
 
  AI Engineering student at **Sookmyung Women's University**  
- Exploring **Deep Learning**, **LLMs**, and **Cloud Deployment**  
+ Exploring **Deep Learning**, **LLMs**, and **Agentic AI**  
  Passionate about **Computer Vision**, **Human-Centered AI**, and **Data Storytelling**  
  Hackathon & Competition enthusiast (multiple awards)  
 
