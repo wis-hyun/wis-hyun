@@ -5,7 +5,6 @@
   <a href="mailto:smwuai2004@sookmyung.ac.kr" style="color:#0366d6;"> Email</a> •
   <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%84-%EA%B9%80-wishyun0303/" style="color:#0366d6;"> LinkedIn</a> •
   <a href="https://github.com/wis-hyun" style="color:#0366d6;"> GitHub</a>
-  <a href="https://www.notion.so/Sung-Hyun-Kim-1a963ea5d8e98009a1efc04cd06203d2?source=copy_link" style="color:#0366d6;"> Notion </a>
 </p>
 
 ---
